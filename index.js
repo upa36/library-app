@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const express = require('express')
 const app = express()
 const path = require('path')
@@ -23,6 +22,3 @@ const server = app.listen(1337, () => {
 })
 
 module.exports = server
-=======
-type your code here
->>>>>>> whatever
